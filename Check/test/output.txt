@@ -1,0 +1,4 @@
+
+抄袭版论文的文件的绝对路径：C:\\Users\\10973\\Desktop\\test\\orig.txt
+论文原文的绝对路径：C:\\Users\\10973\\Desktop\\test\\orig.txt
+论文重复率为：1.00
